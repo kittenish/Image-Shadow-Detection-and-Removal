@@ -1,4 +1,4 @@
-# Shadow-Detection-and-Removal
+# Image-Shadow-Detection-and-Removal
 
 ### Introduction
 * Using paired regions
