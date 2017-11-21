@@ -5,11 +5,10 @@
 * No laege dataset or model training needed
 
 ### Shadow Detection
-* Mean shift segmentation
-* Features  
-* * YCbCr & HSI color space info   
-* * Gradient & Texture & Distant
-
+- Mean shift segmentation
+- Features
+  - YCbCr & HSI color space info  
+  - Gradient & Texture & Distant
 
 ### Shadow Removal
 * Processed in HSV color space
