@@ -1,0 +1,37 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: EDISON - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\bagon\LOCALS~1\Temp\RSPC6F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib comctl32.lib rpcrt4.lib wsock32.lib winmm.lib wxzlibd.lib wxtiffd.lib wxregexd.lib wxpngd.lib wxjpegd.lib wxexpatd.lib wxmsw28d_xrc.lib wxmsw28d_richtext.lib wxmsw28d_qa.lib wxmsw28d_media.lib wxmsw28d_html.lib wxmsw28d_gl.lib wxmsw28d_dbgrid.lib wxmsw28d_core.lib wxmsw28d_aui.lib wxmsw28d_adv.lib wxbase28d_xml.lib wxbase28d_odbc.lib wxbase28d_net.lib wxbase28d.lib /nologo /subsystem:windows /profile /map:"Debug/EDISON.map" /debug /machine:I386 /nodefaultlib:"libcd.lib" /nodefaultlib:"libcid.lib" /nodefaultlib:"msvcrt.lib" /nodefaultlib:"LIBCMT.lib" /out:"Debug/EDISON.exe" /libpath:"D:\bin\wxWidgets-2.8.4\lib\vc_lib" 
+.\Debug\BgEdge.obj
+.\Debug\BgEdgeDetect.obj
+.\Debug\BgEdgeList.obj
+.\Debug\BgGlobalFc.obj
+.\Debug\BgImage.obj
+.\Debug\BgImagPGM.obj
+.\Debug\BgImagPNM.obj
+.\Debug\bgimsystem.obj
+.\Debug\ms.obj
+.\Debug\msImageProcessor.obj
+.\Debug\msSys.obj
+.\Debug\RAList.obj
+.\Debug\rlist.obj
+.\Debug\edison.res
+]
+Creating command line "link.exe @C:\DOCUME~1\bagon\LOCALS~1\Temp\RSPC6F.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+EDISON.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

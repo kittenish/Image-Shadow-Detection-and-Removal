@@ -1,0 +1,56 @@
+Image D:\bin\edison_src\image.bmp loaded
+Input parameters:
+	Spatial Bandwidth	=    7
+	Color Bandwidth	=  6.5
+	Minimum Region	=   20
+timer start...
+done.
+Applying mean shift (Using Lattice) ... done.(  3.70 sec)
+Connecting regions         ...done. (  0.03 seconds, numRegions =  11525)
+Applying transitive closure...done. (  0.06 seconds, numRegions =   9213)
+Pruning spurious regions   ...done. (  0.05 seconds, numRegions =    636)
+timer stop, elapsed 10.39 seconds.
+Input parameters:
+	Spatial Bandwidth	=    7
+	Color Bandwidth	=  6.5
+	Minimum Region	=   20
+timer start...
+done.
+Applying mean shift (Using Lattice) ... done.(  3.59 sec)
+Connecting regions         ...done. (  0.05 seconds, numRegions =  11525)
+Applying transitive closure...done. (  0.08 seconds, numRegions =   9213)
+Pruning spurious regions   ...done. (  0.08 seconds, numRegions =    636)
+timer stop, elapsed 4.78 seconds.
+Input parameters:
+	Spatial Bandwidth		=    7
+	Color Bandwidth		=  6.5
+	Minimum Region		=   20
+	Gradient Window Radius	=    2
+	Mixing Parameter		=  0.3
+	Threshold			=  0.3
+Creating angle lookup table
+Computing confidence map...
+...smooth-differentiation filtering
+...subspace estimate
+...edge strengths
+...computing ranks
+timer start...
+done.
+Applying mean shift (Using Lattice) ... done.(  3.14 sec)
+Connecting regions         ...done. (  0.03 seconds, numRegions =  10898)
+Applying transitive closure...done. (  0.08 seconds, numRegions =  10613)
+Pruning spurious regions   ...done. (  0.05 seconds, numRegions =    762)
+timer stop, elapsed 30.96 seconds.
+Input parameters:
+	Spatial Bandwidth		=    7
+	Color Bandwidth		=  6.5
+	Minimum Region		=   20
+	Gradient Window Radius	=    2
+	Mixing Parameter		=  0.3
+	Threshold			=  0.3
+Creating angle lookup table
+Computing confidence map...
+...smooth-differentiation filtering
+...subspace estimate
+...edge strengths
+...computing ranks
