@@ -2,7 +2,7 @@
 
 ### Introduction
 * Using paired regions
-* No training needed
+* No laege dataset or model training needed
 
 ### Shadow Detection
 * Mean shift segmentation
