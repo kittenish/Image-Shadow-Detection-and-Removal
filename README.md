@@ -6,9 +6,9 @@
 
 ### Shadow Detection
 * Mean shift segmentation
-* Features: 
- * YCbCr & HSI color space info 
- * Gradient & Texture & Distant
+* Features  
+* * YCbCr & HSI color space info   
+* * Gradient & Texture & Distant
 
 
 ### Shadow Removal
