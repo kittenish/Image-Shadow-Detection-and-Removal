@@ -7,8 +7,8 @@
 ### Shadow Detection
 - Mean shift segmentation
 - Features
-  - YCbCr & HSI color space info  
-  - Gradient & Texture & Distant
+  - YCbCr & HSI color space info
+  - Gradient & Texture & Distant differences between every two regions
 
 ### Shadow Removal
 * Processed in HSV color space
